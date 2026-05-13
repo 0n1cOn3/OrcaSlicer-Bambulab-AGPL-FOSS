@@ -11,10 +11,12 @@ It works over the internet just like before, through BambuNetwork, with full fun
 
 ---
 
-## Backup replications available in several DMCA ignored countries:
+## [Backup replications available](https://git.lainlounge.org/hax/OrcaSlicer-Bambulab-AGPL-FOSS) in several DMCA ignored countries:
 In case, you as in _Bambu Labs_ want to shutdown a AGPL licensed product which you've provided in the past to your customer - Me and my community do not support such a shady behaviour with legal threads against the developer who forked it + without any changes being made. You are violating the AGPL, not the developer who forked it with 0 changes on the source code.
 
-https://git.lainlounge.org/hax/OrcaSlicer-Bambulab-AGPL-FOSS
+[Louis Rossman - Bambu Lab: I'm reposting your code & I dare you to sue me.](https://www.youtube.com/watch?v=1jhRqgHxEP8)
+
+[Louis Rossman - This fight needs YOU; not your money! ](https://www.youtube.com/watch?v=Td2OQpLD9ik&t=61s)
 
 ---
 
